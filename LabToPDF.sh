@@ -11,6 +11,7 @@ helpText() {
     exit 0;
 }
 
+#CHANGE THIS TO POINT TO THE CHROME APPLICATION.
 chrome="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 ApplyFix=false
