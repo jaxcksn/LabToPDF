@@ -6,7 +6,7 @@ Simple shell script to allow for the conversion of Jupyter Lab to a formatted PD
 - Google Chrome Installed (Edit chrome variable in script to point to Chrome install for Linux)
 
 #### Installation:
-```shell
+```console
 $ git clone https://github.com/jaxcksn/LabToPDF.git
 $ ln /LabToPDF/LabToPDF.sh /usr/local/bin/LabToPDF
 ```
